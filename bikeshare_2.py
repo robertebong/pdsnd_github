@@ -216,7 +216,7 @@ def user_stats(df):
 def display_raw_data(df):
 
     """Ask user if he wants to display the raw data and print 5 rows at a time"""
-    pd.set_option('display.max_columns',200)
+    pd.set_option('display.max_columns',50)
     raw_data = input('\nWould you like to display raw data? Enter yes or no?\n ')
     if raw_data.lower() == 'yes':
         count = 0
