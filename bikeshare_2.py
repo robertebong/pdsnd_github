@@ -219,10 +219,10 @@ def display_raw_data(df):
     """Ask user if he wants to display the raw data and print 5 rows at a time"""
     
     while True:
-    display_data = input('\nWould you like to see 5 lines of raw data? Enter yes or no.\n')
-    if display_data.lower() != 'yes':
-        break
-    print(tabulate(df_default.iloc[np.arange(0+i,5+i)], headers ="keys"))
+        display_data = input('\nWould you like to see 5 lines of raw data? Enter yes or no.\n')
+        if display_data.lower() != 'yes':
+            break
+        print(tabulate(df_default.iloc[np.arange(0+i,5+i)], headers ="keys"))
 
 
 def main():
