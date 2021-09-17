@@ -1,5 +1,5 @@
 ## US Bikeshare Data Analysis Project
-![Image of bikeshare]("C:\Users\EBONG ROBERT\Desktop\udacity\03_Git\pdsnd_github\bike-share-660.jpg")
+![Image of bikeshare](https://github.com/robertebong/pdsnd_github/blob/61241573a8b8dc35e5c5014b63018e0a49fedf37/bike-share-660.jpg)
 
 ## Date created
 17 September 2021
