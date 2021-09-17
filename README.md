@@ -7,10 +7,13 @@ Include the date you created this project and README file.
 
 
 ### Description
-Describe what your project is about and what it does
+In this project, **Python** is used to explore data related to bike share systems for three major cities in the **United States of America :**  **Chicago**, **New York City**, and **Washington.**
+
+The source code takes in raw input from the user to create an interactive experience.
+Depending on the user's input, data is imported from source to provide answer to important question with the help of descriptive statistics.
 
 ### Files used
-washington.csv
+>washington.csv
 new_york.csv
 chicago.csv
 bikeshare_2.py
