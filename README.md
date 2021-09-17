@@ -1,6 +1,6 @@
 ## US Bikeshare Data Analysis Project
 ![Image of bikeshare](https://github.com/robertebong/pdsnd_github/blob/61241573a8b8dc35e5c5014b63018e0a49fedf37/bike-share-660.jpg)
-[image from wttw](https://news.wttw.com/)
+- Source [wttw](https://news.wttw.com/)
 ## Date created
 17 September 2021
 
